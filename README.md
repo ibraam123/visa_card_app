@@ -2,6 +2,15 @@
 
 A Flutter application for managing payment methods with real-time card preview functionality, built using GetX for state management and Firebase for backend services.
 
+
+## App Screenshots
+
+<div align="center">
+  <img src="./images/Screenshot%202025-06-28%20192929.png" width="30%" alt="Payment Methods Screen"/>
+  <img src="./images/Screenshot%202025-06-28%20193031.png" width="30%" alt="Add Card Screen"/> 
+  <img src="./images/Screenshot%202025-06-28%20193101.png" width="30%" alt="Card Preview"/>
+</div>
+
 ## Features
 
 - **Payment Methods Screen**:
