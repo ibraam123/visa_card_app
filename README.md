@@ -1,7 +1,5 @@
 # Visa Card Payment App
 
-![App Screenshot](screenshots/app_preview.png) <!-- Add your screenshot path here -->
-
 A Flutter application for managing payment methods with real-time card preview functionality, built using GetX for state management and Firebase for backend services.
 
 ## Features
