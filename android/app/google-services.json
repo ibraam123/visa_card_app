@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049611280864",
+    "project_id": "visacard-14d0c",
+    "storage_bucket": "visacard-14d0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049611280864:android:d7609f90c0e5d49ed70b85",
+        "android_client_info": {
+          "package_name": "com.example.visa_card_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbGO3cLPE1_BJNfGwhKRW-uR9XaQXKiCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
